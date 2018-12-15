@@ -34,7 +34,7 @@
     <mj-raw>
       <!-- logo -->
     </mj-raw>
-    <mj-section background-color="white" padding="35px 0px 10px 0px">
+    <mj-section background-color="white" padding="50px 0px 10px 0px">
       <mj-column>
         <mj-image src="https://i.postimg.cc/R0fRy4w5/mango.png" alt="logo of MANGO" width="148px" height="25px"/>
       </mj-column>
@@ -43,7 +43,7 @@
     <mj-raw>
       <!-- links to main site -->
     </mj-raw>
-    <mj-section background-color="white" padding="10px 0px 10px 0px">
+    <mj-section background-color="white" padding="0px 0px 10px 0px">
       <mj-group>
         <mj-column>
           <mj-text align="center">
@@ -63,6 +63,27 @@
           </mj-text>
         </mj-column>
       </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- hero -->
+    </mj-raw>
+    <mj-section background-color="white" padding="15px 0px 10px 0px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/xjtqW3Wj/hero.jpg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- introduction -->
+    </mj-raw>
+    <mj-section background-color="white" padding="10px 20px">
+      <mj-column>
+        <mj-text font-family="Lato" align="center">
+          <h1 style="text-transform:uppercase;">This week's inspiration</h1>
+          <p style="font-size:16px; line-height:22px; color:#474747;">Whether you are looking for fashion inspiration, outfit ideas or want to know how to dress casually for any season, we here at <span style="color:#E30F0F; font-weight:700;">MANGO</span> got you covered.</p>
+        </mj-text>
+      </mj-column>
     </mj-section>
 
   </mj-body>
