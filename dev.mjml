@@ -23,7 +23,7 @@
     <mj-raw>
        <!-- #MANGOGIRLS -->
     </mj-raw>
-    <mj-section background-color="black">
+    <mj-section  background-color="#252525">
       <mj-column>
         <mj-text align="center" padding="10px 10px 10px 10px" letter-spacing="1px">
           <a href="https://www.instagram.com/explore/tags/mangogirls/?hl=en" style="font-family:Lato; color:white; text-transform:uppercase; font-size:12px;">Be inspired by the outfits of our #MANGOGIRLS</a>
@@ -172,6 +172,46 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- social media -->
+    </mj-raw>
+    <mj-section background-color="#252525" padding="35px 20px 10px 20px">
+      <mj-column>
+        <mj-text font-family="Lato" align="center" color="white" text-transform="uppercase" line-height="22px">
+          <h2 style="word-spacing:3px;">Follow Us On Social Media</h2>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element href="#" src="https://i.postimg.cc/8z2YZXWn/facebook.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/t706K65y/instagram.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/fWVrhhKg/twitter.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/v8CSYS28/youtube.png" padding="0px 12px 0 12px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- contact info -->
+    </mj-raw>
+    <mj-section background-color="#252525" padding="0px 20px 10px 20px">
+      <mj-column>
+        <mj-text font-family="Lato" align="center" color="white" text-transform="uppercase" line-height="22px">
+          <p>Call us today: 1-866-666-4664</p>
+          <p>MANGO Customer Service Department <br> 561 Broadway New York, NY 10012</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- send message to inbox or unsubscribe -->
+    </mj-raw>
+    <mj-section background-color="#252525" padding="0px 20px 10px 20px">
+      <mj-column>
+        <mj-text font-family="Lato" font-size="11px" align="center" color="white" line-height="22px">
+          <p>To ensure delivery to your inbox, please add newsletter@mango.com to your address book and safe-sender list.
+          This email was sent to janeDoe@someEmail.com If you no longer want to receive emails from us, you can <a href="#" style="color:#E30F0F;">unsubscribe</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
